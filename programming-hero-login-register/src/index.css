@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.react-phone-input-2 img {
+  width: 24px; /* Adjust the width to your desired size */
+  height: auto; /* Maintain aspect ratio */
+}
